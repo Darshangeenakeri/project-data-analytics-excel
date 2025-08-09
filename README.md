@@ -69,15 +69,25 @@ The dashboard includes the following Key Performance Indicators (KPIs):
 ---
 
 ## 📷 Screenshots
-Screenshots of the dashboard are available in the `/screenshots` folder:
-- `dashboard_overview.png`
-- `kpi_cards.png`
-- `revenue_by_category.png`
-- `revenue_by_hour.png`
-- `revenue_by_months.png`
-- `top5_products.png`
-- `top10_cities.png`
-- `data_model.png`
+
+<table>
+  <tr>
+    <td><img src="screenshots/dashboard_overview.png" alt="Dashboard Overview" width="400"></td>
+    <td><img src="screenshots/kpi_cards.png" alt="KPI Cards" width="400"></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/revenue_by_category.png" alt="Revenue by Category" width="400"></td>
+    <td><img src="screenshots/revenue_by_hour.png" alt="Revenue by Hour" width="400"></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/revenue_by_months.png" alt="Revenue by Months" width="400"></td>
+    <td><img src="screenshots/top5_products.png" alt="Top 5 Products" width="400"></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/top10_cities.png" alt="Top 10 Cities" width="400"></td>
+    <td><img src="screenshots/data_model.png" alt="Data Model" width="400"></td>
+  </tr>
+</table>
 
 ---
 
